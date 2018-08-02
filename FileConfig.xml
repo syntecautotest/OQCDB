@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileConfig>
+	<Product Name="11TB">
+		<Installation>
+			<Versions Category="Software" PackageHead="11BLatheCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value>9.3.1</Value>
+				<Value>1.2.3</Value>
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">ca12bfac99d4a682b1e4e00ab2ea94ae</FileHash>
+			<FileHash Category="Delivery">f1395556a330b065aff650f1c6067c99</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="21MA">
+		<Installation>
+			<Versions Category="Software" PackageHead="21AMillCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">739675980d9824f929e252038de3736c</FileHash>
+			<FileHash Category="Delivery">02cca35d7aa2bf0e543d49a9be4082df</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="HC-10B">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_10B_K">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">2c8daafe9f0d888a19eda09196c873d9</FileHash>
+			<FileHash Category="Delivery">3811912f74383360a2ef71760c2788e5</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="HC-8A">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_8A_K">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">256d30bc8a6d0dd69d67c01e03dca574</FileHash>
+			<FileHash Category="Delivery">5b214720e50f21c8b1fbab3dcdc6962a</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="6TB">
+		<Installation>
+			<Versions Category="Software" PackageHead="6BLatheCE7_ARM">
+				<Value>10.116.26K</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">6ed98ad0efdd30ccf00ccf1f7d49124e</FileHash>
+			<FileHash Category="Delivery">41cd5c64d2dd69b3455f86608233904a</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="11MA">
+		<Installation>
+			<Versions Category="Software" PackageHead="11AMillCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">96c1e6e1645e933876247a637efa6451</FileHash>
+			<FileHash Category="Delivery">be667cca6e5e866fb833ba49030f3f33</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="6MB">
+		<Installation>
+			<Versions Category="Software" PackageHead="6BMillCE7_ARM">
+				<Value>10.116.26K</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">f1a76542d232741f1b619637ae6b60fe</FileHash>
+			<FileHash Category="Delivery">86ecc07d789b7f0ebbe40991322c583d</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="6MA">
+		<Installation>
+			<Versions Category="Software" PackageHead="6AMillCE7_ARM">
+				<Value>10.116.26K</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">22b8ad1ac9c8d85f966dd2ece7105d00</FileHash>
+			<FileHash Category="Delivery">c03d4c09756611e6432b5fca5f1cd12a</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="21TB">
+		<Installation>
+			<Versions Category="Software" PackageHead="21BLatheCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">0a520fcf550184d4894d90fbba4e8ee2</FileHash>
+			<FileHash Category="Delivery">136bf0888f917a328355625511eb84a5</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="6TA">
+		<Installation>
+			<Versions Category="Software" PackageHead="6ALatheCE7_ARM">
+				<Value>10.116.26K</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">21df12da816edda6a5c7ca57aea11356</FileHash>
+			<FileHash Category="Delivery">7b08ab29716f2032ae8a69189a9b1e87</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="21TA">
+		<Installation>
+			<Versions Category="Software" PackageHead="21ALatheCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">6b0faac5a1865148e8c1622b15049154</FileHash>
+			<FileHash Category="Delivery">5230a39689e244a72d90144fcb3af245</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="60PB">
+		<Installation>
+			<Versions Category="Software" PackageHead="60BPrintCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">10e6dad39c9609193d99727e909927fa</FileHash>
+			<FileHash Category="Delivery">2ee390e79a8d7870e706b6ab6e9ec094</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="6GB-G">
+		<Installation>
+			<Versions Category="Software" PackageHead="6BGlassGrindCE7_ARM">
+				<Value>1.0.29</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">af15bd499a51aad92d6211541ded5fb8</FileHash>
+			<FileHash Category="Delivery">0444fb60ca2716d8afb4df3e56c16d2a</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="6MD">
+		<Installation>
+			<Versions Category="Software" PackageHead="6DMillCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">2bcf5af5351a8022feecf11e1ec7463a</FileHash>
+			<FileHash Category="Delivery">5a98ff2772061f84c47cceb9d515eb13</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="11MB">
+		<Installation>
+			<Versions Category="Software" PackageHead="11BMillCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">b4486b53af929b7e711423bbeea5ef52</FileHash>
+			<FileHash Category="Delivery">4959a426e69f481d98d60db6650769c9</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="HC-8B">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_8B_K">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">ea9bf8ba10e5a824573cfd4bf8fe69cd</FileHash>
+			<FileHash Category="Delivery">03e87a7b12da33409833a7f113f9a7b2</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="IQC">
+		<Installation>
+			<Versions Category="Software" PackageHead="">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="11TA">
+		<Installation>
+			<Versions Category="Software" PackageHead="11ALatheCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">88492945950e040dcb8ef907e09015de</FileHash>
+			<FileHash Category="Delivery">1c0e986d7830d609ff40a266ce11612e</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="21MA-H">
+		<Installation>
+			<Versions Category="Software" PackageHead="21A-HMillCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">15dd22da7149b8a79667f9ffa4f1e647</FileHash>
+			<FileHash Category="Delivery">2bfbfef87df04d641fdc0c75eab497ea</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="6TD-H">
+		<Installation>
+			<Versions Category="Software" PackageHead="6D-HLatheCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">563fb3f74291bd4dc9b37f5050203668</FileHash>
+			<FileHash Category="Delivery">a1b7c671313134b78091d5bf8d6b3183</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="6MD-H">
+		<Installation>
+			<Versions Category="Software" PackageHead="6D-HMillCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">bd38d10277fbab3f7cf2d58c129eea90</FileHash>
+			<FileHash Category="Delivery">ef3dc06037348accc408ff1bcfb76df8</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="21TA-H">
+		<Installation>
+			<Versions Category="Software" PackageHead="21A-HLatheCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">93ed1ba954d527321f97e1c372f76f22</FileHash>
+			<FileHash Category="Delivery">4cf3b8dc456d69eadabdf144d9981cba</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="21TB-H">
+		<Installation>
+			<Versions Category="Software" PackageHead="21B-HLatheCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">09479544a6cb04c547f8972a041aa353</FileHash>
+			<FileHash Category="Delivery">134f3b5ea404784dd5049ca9eab13103</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="HC-10A">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_10A_K">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">79ff2ab4663113668d0f8672402ea17f</FileHash>
+			<FileHash Category="Delivery">ef11faff94b3d5f5b3437fe0455aeb94</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="HC-8C">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_8C_K">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="HC-10C">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_10C_K">
+				<Value>10.116.38M</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="HC-15B">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_15B_K">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">15a4a176759abc622ca196106f6486c5</FileHash>
+			<FileHash Category="Delivery">3811912f74383360a2ef71760c2788e5</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="22TA">
+		<Installation>
+			<Versions Category="Software" PackageHead="22ALatheCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="22MA">
+		<Installation>
+			<Versions Category="Software" PackageHead="22AMillCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">08941c1c2021ac3e5e9af494046ae54e</FileHash>
+			<FileHash Category="Delivery">fdb2f77343b3663dd48040d8be1fe82c</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="7MA">
+		<Installation>
+			<Versions Category="Software" PackageHead="7AMillCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="7TA">
+		<Installation>
+			<Versions Category="Software" PackageHead="7ALatheCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="22TB">
+		<Installation>
+			<Versions Category="Software" PackageHead="22BLatheCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="220MB">
+		<Installation>
+			<Versions Category="Software" PackageHead="220BMillCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="220MA">
+		<Installation>
+			<Versions Category="Software" PackageHead="220AMillCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="220TB">
+		<Installation>
+			<Versions Category="Software" PackageHead="220BLatheCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="220MA5">
+		<Installation>
+			<Versions Category="Software" PackageHead="220A-5MillCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="220MB5">
+		<Installation>
+			<Versions Category="Software" PackageHead="220B-5MillCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="HC-15A">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_15A_K">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">d65df80e62f1062531da14c0eba4a5f9</FileHash>
+			<FileHash Category="Delivery">ef11faff94b3d5f5b3437fe0455aeb94</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="60PC">
+		<Installation>
+			<Versions Category="Software" PackageHead="60CPrintCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="HC-8S">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_8S_K">
+				<Value>10.116.38C</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">2f275825790fe49f4af20819ff148949</FileHash>
+			<FileHash Category="Delivery">4806d65739e8d0f2a399b9613b5021a6</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="HC-15C">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_15C_K">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="220TB5">
+		<Installation>
+			<Versions Category="Software" PackageHead="220B-5LatheCE7_ARM">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="HC-80MI">
+		<Installation>
+			<Versions Category="Software" PackageHead="HC_80MI_K">
+				<Value>10.116.38N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="6TD-E">
+		<Installation>
+			<Versions Category="Software" PackageHead="6D-ELatheCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">b7e6e517b632fb83b60a364465c466aa</FileHash>
+			<FileHash Category="Delivery">eecff0df14e47e188474fc1c7acaabe0</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="TEST-11TB">
+		<Installation>
+			<Versions Category="Software" PackageHead="11BLatheCE7_ARM">
+				<Value>10.116.54N</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">70b105eb6f1705652e660aa35daa29ba</FileHash>
+			<FileHash Category="Delivery">f9a644b8a021623d7a26ce6517900c0a</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="NEWGROUP">
+		<Installation>
+			<Versions Category="Software" PackageHead="21BMillCE7_ARM" />
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="TESTGROUP">
+		<Installation>
+			<Versions Category="Software" PackageHead="21ALatheCE7_ARM" />
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="6TE">
+		<Installation>
+			<Versions Category="Software" PackageHead="6ELatheCE7_ARM">
+				<Value>10.116.54P</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
+		</Installation>
+		<Verifiacation>
+			<FileHash Category="Test">ac64da9f7c502d853c7487d5a5debe92</FileHash>
+			<FileHash Category="Delivery">977e57a711c453155dd41642a5f9e5fa</FileHash>
+		</Verifiacation>
+	</Product>
+	<Product Name="6TA-E">
+		<Installation>
+			<Versions Category="Software" PackageHead="6ELatheCE7_ARM" />
+		</Installation>
+		<Verifiacation />
+	</Product>
+	<Product Name="6E">
+		<Installation>
+			<Versions Category="Software" PackageHead="" />
+		</Installation>
+		<Verifiacation />
+	</Product>
+</FileConfig>
