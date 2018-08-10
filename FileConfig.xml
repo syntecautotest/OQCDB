@@ -611,7 +611,7 @@
 	</Product>
 	<Product Name="6TA-E">
 		<Installation>
-			<Versions Category="Software" PackageHead="6ELatheCE7_ARM" />
+			<Versions Category="Software" PackageHead="6A-ELatheCE7_ARM" />
 		</Installation>
 		<Verifiacation />
 	</Product>
