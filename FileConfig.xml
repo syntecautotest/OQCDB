@@ -3,7 +3,7 @@
 	<Product Name="11TB">
 		<Installation>
 			<Versions Category="Software" PackageHead="11BLatheCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value>9.3.1</Value>
@@ -18,7 +18,7 @@
 	<Product Name="21MA">
 		<Installation>
 			<Versions Category="Software" PackageHead="21AMillCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -74,7 +74,7 @@
 	<Product Name="11MA">
 		<Installation>
 			<Versions Category="Software" PackageHead="11AMillCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -200,7 +200,7 @@
 	<Product Name="11MB">
 		<Installation>
 			<Versions Category="Software" PackageHead="11BMillCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -239,7 +239,7 @@
 	<Product Name="11TA">
 		<Installation>
 			<Versions Category="Software" PackageHead="11ALatheCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -253,7 +253,7 @@
 	<Product Name="21MA-H">
 		<Installation>
 			<Versions Category="Software" PackageHead="21A-HMillCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
