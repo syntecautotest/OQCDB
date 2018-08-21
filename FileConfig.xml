@@ -116,7 +116,7 @@
 	<Product Name="21TB">
 		<Installation>
 			<Versions Category="Software" PackageHead="21BLatheCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -144,7 +144,7 @@
 	<Product Name="21TA">
 		<Installation>
 			<Versions Category="Software" PackageHead="21ALatheCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -158,7 +158,7 @@
 	<Product Name="60PB">
 		<Installation>
 			<Versions Category="Software" PackageHead="60BPrintCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -186,7 +186,7 @@
 	<Product Name="6MD">
 		<Installation>
 			<Versions Category="Software" PackageHead="6DMillCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -267,7 +267,7 @@
 	<Product Name="6TD-H">
 		<Installation>
 			<Versions Category="Software" PackageHead="6D-HLatheCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -281,7 +281,7 @@
 	<Product Name="6MD-H">
 		<Installation>
 			<Versions Category="Software" PackageHead="6D-HMillCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -295,7 +295,7 @@
 	<Product Name="21TA-H">
 		<Installation>
 			<Versions Category="Software" PackageHead="21A-HLatheCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -309,7 +309,7 @@
 	<Product Name="21TB-H">
 		<Installation>
 			<Versions Category="Software" PackageHead="21B-HLatheCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -384,7 +384,7 @@
 	<Product Name="22MA">
 		<Installation>
 			<Versions Category="Software" PackageHead="22AMillCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -511,7 +511,7 @@
 	<Product Name="HC-8S">
 		<Installation>
 			<Versions Category="Software" PackageHead="HC_8S_K">
-				<Value>10.116.38C</Value>
+				<Value>10.116.38G</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -558,7 +558,7 @@
 	<Product Name="6TD-E">
 		<Installation>
 			<Versions Category="Software" PackageHead="6D-ELatheCE7_ARM">
-				<Value>10.116.54P</Value>
+				<Value>10.116.54R</Value>
 			</Versions>
 			<Versions Category="Image">
 				<Value />
@@ -611,9 +611,17 @@
 	</Product>
 	<Product Name="6TA-E">
 		<Installation>
-			<Versions Category="Software" PackageHead="6A-ELatheCE7_ARM" />
+			<Versions Category="Software" PackageHead="6A-ELatheCE7_ARM">
+				<Value>10.116.54R</Value>
+			</Versions>
+			<Versions Category="Image">
+				<Value />
+			</Versions>
 		</Installation>
-		<Verifiacation />
+		<Verifiacation>
+			<FileHash Category="Test">4b32b971afd5499eb0f1431053957a7e</FileHash>
+			<FileHash Category="Delivery">3b1c3b44797fc84c850001cf0d03d134</FileHash>
+		</Verifiacation>
 	</Product>
 	<Product Name="6E">
 		<Installation>
