@@ -6,4 +6,3 @@
 7MA
 7TA
 IQC
-TestGroup2
